@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Fun fact : I love reading about greek mythology
 <!--
 **JulesHolleran/JulesHolleran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
